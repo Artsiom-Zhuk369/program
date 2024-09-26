@@ -10,7 +10,7 @@
            }
 
         </style>
-         <a href="https://artsiom-zhuk369.github.io/programm/"><font size="200">тема 0:вводное</font></a>
+         <a href="https://artsiom-zhuk369.github.io/programm1/"><font size="200">тема 0:вводное</font></a>
          <p></p>
          <a href="file:///E:/слесарьтехник%20тема2.html"><font size="200">тема 1:Измерение, средство измерений</font></a>
          <p></p>
