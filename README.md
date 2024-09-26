@@ -22,7 +22,7 @@
          <p></p>
          <a href="file:///E:/слесарьтехник%20тема4.html"><font size="200">тема 5:Правка, Гибка Металла</font></a>
          <p></p>
-         <a href="https://artsiom-zhuk369.github.io/program/"><font size="200">тема 6:Опиливание Металла</font></a>
+         <a href="https://artsiom-zhuk369.github.io/programm5/"><font size="200">тема 6:Опиливание Металла</font></a>
          <p></p>
          <a href="file:///E:/слесарьтехник%20тема8.html"><font size="200">тема 7:Сверление</font></a>
          <p></p>
