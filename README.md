@@ -6,7 +6,7 @@
         <p align="center"><font size="1000" color="cyan" face="Arial">Общий курс слесарного дела</font></p>
         <style>
            body{
-            background:rgb(36, 91, 112);
+            background:rgb(31, 83, 34);
            }
 
         </style>
