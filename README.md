@@ -16,7 +16,7 @@
          <p></p>
          <a href="https://artsiom-zhuk369.github.io/programm3/"><font size="200">тема 2:Разметка</font></a>
          <p></p>
-         <a href="file:///E:/слесарьтехник%20тема4.html"><font size="200">тема 3:Рубка Металла</font></a>
+         <a href="https://artsiom-zhuk369.github.io/programm4/"><font size="200">тема 3:Рубка Металла</font></a>
          <p></p>
          <a href="file:///E:/слесарьтехник%20тема4.html"><font size="200">тема 4:Резка Металла</font></a>
          <p></p>
