@@ -14,7 +14,7 @@
          <p></p>
          <a href="https://artsiom-zhuk369.github.io/programm/"><font size="200">тема 1:Измерение, средство измерений</font></a>
          <p></p>
-         <a href="file:///E:/слесарьтехник%20тема3.html"><font size="200">тема 2:Разметка</font></a>
+         <a href="https://artsiom-zhuk369.github.io/programm3/"><font size="200">тема 2:Разметка</font></a>
          <p></p>
          <a href="file:///E:/слесарьтехник%20тема4.html"><font size="200">тема 3:Рубка Металла</font></a>
          <p></p>
