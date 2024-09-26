@@ -24,7 +24,7 @@
          <p></p>
          <a href="https://artsiom-zhuk369.github.io/programm5/"><font size="200">тема 6:Опиливание Металла</font></a>
          <p></p>
-         <a href="file:///E:/слесарьтехник%20тема8.html"><font size="200">тема 7:Сверление</font></a>
+         <a href="https://artsiom-zhuk369.github.io/programm7/"><font size="200">тема 7:Сверление</font></a>
          <p></p>
          <a href="file:///E:/слесарьтехник%20тема9.html"><font size="200">тема 8:Нарезание резьбы</font></a>
          <p></p>
