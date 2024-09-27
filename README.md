@@ -28,7 +28,7 @@
          <p></p>
          <a href="https://artsiom-zhuk369.github.io/programm6/"><font size="200">тема 8:Нарезание резьбы</font></a>
          <p></p>
-         <a href="file:///E:/слесарьтехник%20тема4.html"><font size="200">тема 9:Шабрение,доводка, притирка, клепка</font></a>
+         <a href="https://artsiom-zhuk369.github.io/program9/"><font size="200">тема 9:Шабрение,доводка, притирка, клепка</font></a>
 
     </body>
 </html>
